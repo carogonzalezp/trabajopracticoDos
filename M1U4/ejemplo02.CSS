@@ -1,0 +1,28 @@
+p{ 
+    color: red;
+    font-size: 20px;
+}
+h1{ 
+    background-color: yellow;
+}
+.destacados{ 
+    color: green;
+    font-weight: bolder;
+}
+#violet{
+    width: 200px;
+    height: 100px;
+    background-color:violet;
+    padding: 30px;
+    margin-left: 15px    ;
+        
+}
+a:hover{
+    text-transform: uppercase;
+    
+}
+label{
+    color: red; 
+    font-size: 20px;
+    text-transform: uppercase;
+}
