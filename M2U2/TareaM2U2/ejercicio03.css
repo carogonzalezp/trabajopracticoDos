@@ -1,0 +1,35 @@
+.contenedor {
+    background-color: white;
+    width: 700px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    justify-content: space-between;
+    
+
+}
+
+.item {
+    width: 100px;
+    height: 100px;
+    font-size: 10px;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: inline-flex;
+
+}
+
+.redbox {
+    background-color: red;
+}
+
+.bluebox {
+    background-color: blue;
+    
+}
+
+.greenbox {
+    background-color: green;
+}
