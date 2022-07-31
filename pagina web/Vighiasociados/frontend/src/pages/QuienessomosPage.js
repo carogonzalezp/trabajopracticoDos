@@ -1,3 +1,5 @@
+import '../styles/QuienessomosPage.css';
+
 const QuienessomosPage = (props) => {
     return (
         <main className="holder">

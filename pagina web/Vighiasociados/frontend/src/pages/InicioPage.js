@@ -1,3 +1,5 @@
+import '../styles/InicioPage.css';
+
 const InicioPage = (props) => {
     return (
         <main className="holder">
