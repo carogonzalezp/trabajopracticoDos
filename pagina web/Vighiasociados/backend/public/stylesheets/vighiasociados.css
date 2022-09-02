@@ -247,3 +247,19 @@ nav ul li a.activo{
     font-size: 16px;
     /*gap: 20px;*/
 }
+ 
+
+.col-7 h3{
+    margin-left: 70px;
+}
+
+.col-2 {
+   /* margin-top: 5px;*/
+    margin-left: 230px;
+}
+
+ .col table{
+    width: 90%;
+	height: 300px; 
+    margin:auto;
+ }
